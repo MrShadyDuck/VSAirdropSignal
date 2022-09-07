@@ -1,5 +1,10 @@
-# VSAirdropSignal
+# VSAirdropSignal ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 Rocketmod 4 plugin to summon a airdrop with a item of your choice.
+
+
+
+
+# Configuration
 
 ```C#
 
