@@ -17,4 +17,4 @@ Rocketmod 4 plugin to summon a airdrop with a item of your choice.
   <SignalSmokes>
     <SignalIDs>261</SignalIDs>
   </SignalSmokes>
-</Config> ```
+</Config>
